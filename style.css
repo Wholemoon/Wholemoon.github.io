@@ -3,34 +3,10 @@ body{
  font-family: verdana;
 }
 
-.header{
+.content{
  margin: -10px;
  padding: 0px;
  text-align: center;
  font-size: 20px;
- background-color: aqua;
-}
-
-#filler{
- float: left;
- width: 5%;
- height: 1px;
-}
-
-#left{
- float: left;
- background-color: blue;
- width: 25%;
-}
-
-#middle{
- float: left;
- background-color: green;
- width: 40%;
-}
-
-#right{
- float: left;
- background-color: red;
- width: 25%;
+ color: aqua;
 }
